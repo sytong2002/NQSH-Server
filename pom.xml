@@ -1,1 +1,24 @@
+<dependencies>
 
+    <!-- Netty -->
+    <dependency>
+        <groupId>io.netty</groupId>
+        <artifactId>netty-all</artifactId>
+        <version>4.1.118.Final</version>
+    </dependency>
+
+    <!-- MariaDB -->
+    <dependency>
+        <groupId>org.mariadb.jdbc</groupId>
+        <artifactId>mariadb-java-client</artifactId>
+        <version>3.5.3</version>
+    </dependency>
+
+    <!-- Logback -->
+    <dependency>
+        <groupId>ch.qos.logback</groupId>
+        <artifactId>logback-classic</artifactId>
+        <version>1.5.18</version>
+    </dependency>
+
+</dependencies>
